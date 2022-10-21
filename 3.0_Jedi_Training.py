@@ -28,4 +28,3 @@ force = mass * acceleration
 print(" Force = ",force," N")
 print(" Get it? ")
 
-
