@@ -10,11 +10,11 @@ print("hello "+username+" welcome to my calculation program!")
 # 2. Write a program where a user enters a base and height and you print the area of a triangle.
 base = input("What is the base of your triangle: ")
 height = input("what is the height of your triangle: ")
-int(1/2)(base*height)
-
+area=int(1/2)(base*height)
+print("The area of the triangle is:",area,)
 # 3. Write a line of code that will ask the user for the radius of a circle and then prints the circumference.
 radius = int(input(" What is the radius of the circle?: "))
-circumference = 3.14 * radius**2
+circumference = 3.14 * radius*2
 print("Circumference",circumference,)
 
 # 4. Ask a user for an integer and then print the square root.
